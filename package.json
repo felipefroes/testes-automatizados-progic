@@ -1,0 +1,20 @@
+{
+  "name": "qa-elite-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.2"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.4"
+  }
+}
