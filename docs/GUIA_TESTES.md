@@ -82,7 +82,7 @@ Teste automatizado_Froes - Post simples - com imagem - 2026-02-12 11:58:21.824 U
 
 ---
 
-**6) Arquivos e funções importantes (explicação simples)**
+**6) Arquivos e funções importantes**
 
 **`helpers/ui.ts`**
 - Funções genéricas para clicar ou preencher campos sem quebrar.
@@ -158,7 +158,7 @@ O relatório é salvo como artefato no GitHub Actions.
 
 ---
 
-**10) Como integrar com Qase.io (visão simples)**
+**10) Como integrar com Qase.io**
 
 Qase é uma plataforma de gerenciamento de testes. A integração permite enviar resultados automaticamente.
 
@@ -216,7 +216,7 @@ reporter: [
 
 ---
 
-**12) Resumo para alguém totalmente leigo**
+**12) Resumo**
 
 - O Playwright é o robô.
 - Os arquivos em `tests/` são os roteiros.
@@ -224,6 +224,4 @@ reporter: [
 - O GitHub guarda o projeto e roda testes automaticamente.
 - O Qase guarda os resultados organizados.
 
----
 
-Se precisar, posso transformar isso em um manual mais curto para treinamento rápido ou preparar um onboarding para novos membros.
