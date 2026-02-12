@@ -1,5 +1,5 @@
 {
-  "name": "qa-elite-framework",
+  "name": "testes-automatizados-progic",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
@@ -15,7 +15,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "TESTES AUTOMATIZADOS_PROGIC",
   "devDependencies": {
     "@playwright/test": "^1.58.2",
     "@types/node": "^25.2.2"
