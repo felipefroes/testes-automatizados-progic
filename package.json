@@ -5,7 +5,13 @@
   "directories": {
     "test": "tests"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "node scripts/playwright.js test",
+    "test:headed": "node scripts/playwright.js test --headed",
+    "test:ui": "node scripts/playwright.js test --ui",
+    "test:report": "node scripts/playwright.js show-report",
+    "auth:setup": "node scripts/create-storage-state.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
